@@ -1,0 +1,18 @@
+# Credenciales y configuración local
+*.key
+*.pem
+.env
+.env.*
+raspberry_host.txt
+# Datos y procesos
+*.sqlite*
+*.db
+*.db-*
+*.log
+*.pid
+*.bak*
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
